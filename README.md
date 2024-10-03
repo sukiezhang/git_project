@@ -1,4 +1,4 @@
-# 611-example
+# 611-project
 Hi, this is my 611 Data Science Project. 
 
 This repository contains an analysis pipeline using R and Docker. It includes the following components:
