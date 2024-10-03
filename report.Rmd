@@ -1,0 +1,13 @@
+---
+title: "Report"
+output: pdf_document
+date: "2024-10-03"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+This is a placeholder report for my project.
